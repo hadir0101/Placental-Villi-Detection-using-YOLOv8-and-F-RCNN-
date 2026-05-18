@@ -62,7 +62,7 @@ Manual placental slide analysis is slow, expert-dependent, and difficult to scal
 
 ---
 
-## Recruiter highlights
+## Highlights
 
 - Built and evaluated **two production-relevant CV pipelines** on a real medical dataset.
 - Solved practical ML engineering challenges: annotation conversion, WSI tiling, imbalance handling, and post-processing.
